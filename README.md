@@ -2,9 +2,9 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mykrobin&theme=dark&show_icons=true">](https://metrics.lecoq.io/Mykrobin?template=classic)
 
-- 👋 Hi, I’m @Mykrobin
-- 👀 I’m interested in System Virtualization and System Security.
-- 🌱 I’m currently learning Language go, Linux Operating System and Xen.
+- :hammer_and_pick: C/ Go / Python / C++
+- 🌱 I’m currently learning Language go/C++, Linux Operating System and Xen.
+- :mortar_board: Taking courses and doing research in ECNU.
 - 📫 You can reach me at ykma@stu.ecnu.edu.cn.
 
 <!---
@@ -19,3 +19,4 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
 could be a profile README that fits you better than this one.
 
 -->
+
